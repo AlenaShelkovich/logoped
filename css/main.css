@@ -511,10 +511,6 @@ section {
 		font-size: 35px;
 	}
 
-	.services-img {
-		margin-top: 60px;
-	}
-
 	.section-rubric {
 		font-size: 14px;
 		margin: 13px 0 13px;
@@ -572,15 +568,15 @@ section {
 	}
 
 
-.footer-contacts__tel {
-	font-size: 16px;
-    margin-top: 7px
-}
+	.footer-contacts__tel {
+		font-size: 16px;
+   		margin-top: 7px
+	}
 
-.footer-contacts__mail {
-	font-size: 16px;
-    margin-top: 7px;
-}
+	.footer-contacts__mail {
+		font-size: 16px;
+   		margin-top: 7px;
+	}
 
 }
 
@@ -614,8 +610,16 @@ section {
 	}
 
 	.price-wrapper__text {
-		max-width: 280px;
+		max-width: 250px;
 	}
+
+	.price-wrapper__text {
+		font-size: 16px;
+	}
+
+	.price-wrapper__content span {
+		font-size: 18px;
+}
 
 	.question-btn {
 		font-size: 16px;
